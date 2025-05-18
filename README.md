@@ -9,9 +9,9 @@ https://omegaproject.azurewebsites.net/
 
 # Screenshots:
 
-(screenshot1.png)
+[screenshot1.png]
 
-(screenshot2.png)
+[screenshot2.png]
 
 # Functions
 
