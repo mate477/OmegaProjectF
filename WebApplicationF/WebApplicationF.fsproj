@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+	<Compile Include="Models.fs" />
+    <Compile Include="DiscountService.fs" />
+    <Compile Include="Controllers\UserController.fs" />
+    <Compile Include="Controllers\PassController.fs" />
+    <Compile Include="Controllers\AuthController.fs" />
+    <Compile Include="Controllers\OrderController.fs" />
+    <Compile Include="Controllers\CategoryController.fs" />
+    <Compile Include="Controllers\CartController.fs" />
+    <Compile Include="Controllers\ProductController.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="8.1.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="8.1.1" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "prod1",
+    "name": "Creatine Monohydrate",
+    "description": "High-quality creatine monohydrate for muscle strength.",
+    "price": 22.99,
+    "imageUrl": "/images/cre1.png",
+    "category": "Creatine",
+    "inStock": true
+  },
+  {
+    "id": "prod2",
+    "name": "Creatine Powder",
+    "description": "Explosive power formula with fast absorption.",
+    "price": 24.49,
+    "imageUrl": "/images/cre2.png",
+    "category": "Creatine",
+    "inStock": true
+  },
+  {
+    "id": "prod3",
+    "name": "Creatine Xplode",
+    "description": "Advanced creatine blend for performance athletes.",
+    "price": 26.90,
+    "imageUrl": "/images/cre3.png",
+    "category": "Creatine",
+    "inStock": true
+  },
+  {
+    "id": "prod4",
+    "name": "Creatine Powder – Monohydrate",
+    "description": "Micronized creatine monohydrate. Temporarily out of stock.",
+    "price": 19.90,
+    "imageUrl": "/images/cre4.png",
+    "category": "Creatine",
+    "inStock": false
+  },
+  {
+    "id": "prod5",
+    "name": "CREATINE CONQUER",
+    "description": "Maximum power creatine with taurine blend.",
+    "price": 27.99,
+    "imageUrl": "/images/cre5.png",
+    "category": "Creatine",
+    "inStock": false
+  },
+  {
+    "id": "prod6",
+    "name": "Whey Protein – Chocolate",
+    "description": "Delicious chocolate-flavored whey protein.",
+    "price": 39.90,
+    "imageUrl": "/images/pro1.png",
+    "category": "Protein",
+    "inStock": true
+  },
+  {
+    "id": "prod7",
+    "name": "NitroTech Whey Gold",
+    "description": "Whey protein blend with BCAAs.",
+    "price": 42.50,
+    "imageUrl": "/images/pro2.png",
+    "category": "Protein",
+    "inStock": true
+  },
+  {
+    "id": "prod8",
+    "name": "ISO Whey Zero",
+    "description": "Lactose- and sugar-free whey isolate. Currently out of stock.",
+    "price": 36.00,
+    "imageUrl": "/images/pro3.png",
+    "category": "Protein",
+    "inStock": false
+  },
+  {
+    "id": "prod9",
+    "name": "Gold Standard Whey",
+    "description": "One of the most trusted whey protein formulas.",
+    "price": 44.90,
+    "imageUrl": "/images/pro4.png",
+    "category": "Protein",
+    "inStock": true
+  },
+  {
+    "id": "prod10",
+    "name": "100% Whey Protein – Nutrend",
+    "description": "High quality protein for muscle growth and recovery.",
+    "price": 38.90,
+    "imageUrl": "/images/pro5.png",
+    "category": "Protein",
+    "inStock": true
+  },
+  {
+    "id": "prod11",
+    "name": "Vitamin C 1000mg",
+    "description": "Supports immune system and antioxidant protection.",
+    "price": 6.99,
+    "imageUrl": "/images/vit1.png",
+    "category": "Vitamins",
+    "inStock": false
+  },
+  {
+    "id": "prod12",
+    "name": "Vitamin B Complex",
+    "description": "Daily formula for energy and nervous system support.",
+    "price": 7.99,
+    "imageUrl": "/images/vit2.png",
+    "category": "Vitamins",
+    "inStock": true
+  },
+  {
+    "id": "prod13",
+    "name": "Vitamin D3 2000 IU",
+    "description": "Essential vitamin for bone and immune health.",
+    "price": 8.90,
+    "imageUrl": "/images/vit3.png",
+    "category": "Vitamins",
+    "inStock": true
+  },
+  {
+    "id": "prod14",
+    "name": "Vitamin K2 + D3 Forte",
+    "description": "Strong bones and cardiovascular support formula.",
+    "price": 9.90,
+    "imageUrl": "/images/vit4.png",
+    "category": "Vitamins",
+    "inStock": true
+  },
+  {
+    "id": "prod15",
+    "name": "Vitamin E 400 IU",
+    "description": "Antioxidant support for healthy skin and cells.",
+    "price": 5.90,
+    "imageUrl": "/images/vit5.png",
+    "category": "Vitamins",
+    "inStock": true
+  },
+  {
+    "id": "prod16",
+    "name": "Adjustable Dumbbell Pair",
+    "description": "Space-saving adjustable dumbbells with quick lock system.",
+    "price": 69.99,
+    "imageUrl": "/images/we1.png",
+    "category": "Equipment",
+    "inStock": true
+  },
+  {
+    "id": "prod17",
+    "name": "Hex Dumbbells – 10kg",
+    "description": "Durable rubber-coated hex dumbbells for strength training.",
+    "price": 34.50,
+    "imageUrl": "/images/we2.png",
+    "category": "Equipment",
+    "inStock": true
+  },
+  {
+    "id": "prod18",
+    "name": "Olympic Barbell – 15kg",
+    "description": "Standard barbell for powerlifting. Out of stock.",
+    "price": 109.00,
+    "imageUrl": "/images/we3.png",
+    "category": "Equipment",
+    "inStock": false
+  },
+  {
+    "id": "prod19",
+    "name": "Vertical Dumbbell Rack",
+    "description": "Compact vertical storage rack for dumbbells.",
+    "price": 129.00,
+    "imageUrl": "/images/we4.png",
+    "category": "Equipment",
+    "inStock": true
+  },
+  {
+    "id": "prod20",
+    "name": "Horizontal Dumbbell Rack",
+    "description": "Commercial-grade horizontal dumbbell storage.",
+    "price": 159.00,
+    "imageUrl": "/images/we5.png",
+    "category": "Equipment",
+    "inStock": true
+  }
+]

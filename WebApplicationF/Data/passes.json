@@ -1,0 +1,23 @@
+[
+  {
+    "id": "pass1",
+    "name": "Monthly Pass",
+    "description": "Unlimited gym access for 30 days.",
+    "price": 39.99,
+    "durationDays": 30
+  },
+  {
+    "id": "pass2",
+    "name": "Daily Pass",
+    "description": "One day gym access. Ideal for guests.",
+    "price": 5.99,
+    "durationDays": 1
+  },
+  {
+    "id": "pass3",
+    "name": "Annual Pass",
+    "description": "Full-year access with the best value.",
+    "price": 399.99,
+    "durationDays": 365
+  }
+]
